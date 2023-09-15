@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "^11.8.0",
+    "html-entities": "^2.4.0",
+    "html-minifier": "^4.0.0",
+    "markdown-it": "^13.0.1",
+    "slugify": "^1.6.6"
+  }
 }
